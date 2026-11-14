@@ -1,3 +1,3 @@
-# Q4 – String Building Performance
+# Q5 – Functions, Parameters and Variable Scope
 
-This folder contains the Q4 Python notebook, performance measurements and report.
+This folder contains the Q5 Python notebook, default argument demonstrations, function examples and written answers.
